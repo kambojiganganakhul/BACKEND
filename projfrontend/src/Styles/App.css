@@ -1,0 +1,66 @@
+.headercontainer{
+    background-image: url('../images/backgweb.jpg');
+    background-size: cover;
+    height: 78vh;
+    width: 100%;
+    margin-top: 0%;
+}
+ body{
+    margin-top: 0%;
+}
+
+.App{
+    padding-left: 125vh;
+    padding-top :28vh ;
+}
+
+.App1{
+    
+    font-size: 70px;
+    color: aquamarine;
+}
+
+.App9{
+    font-size: 35px;
+
+    color: aquamarine;
+}
+
+.App6{
+    color:red;
+    height: 50px;
+    width: 150px;
+    margin-top: 20px;
+    border: none;
+    text-decoration: none;
+}
+
+.App7{
+    font-size:small;
+
+}
+
+.home{
+    justify-content: center;
+    align-items: center;
+}
+
+.headercontainer{
+    margin-top: 0;
+    /* border-radius: 10px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: colomn;
+
+}  
+.App10{
+    text-decoration: none;
+    color: black;
+}
+.App15{
+    display: flex;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,28 @@
+
+.bgclorfortoolbar{
+    background-color: goldenrod;
+}
+.navigationstyle{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navigationstyle li{
+    margin: 12px 18px;
+    
+    
+}
+.navigationstyle li a{
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 10px;
+    color: black;
+    
+}
+li a:hover {
+    background-color: #F2CD5C;
+    transform: "translateX(5px)";
+    transition: "all 400ms";
+  }
+  
